@@ -1,42 +1,42 @@
-<h1 class="no-toc">Introduction to the Angular Docs</h1>
+<h1 class="no-toc">Inleiding tot de Angular Docs</h1>
 
-Angular is an application design framework and development platform for creating efficient and sophisticated single-page apps.
+Angular is een applicatie framework en ontwikkelaars platform voor het maken van efficiente en geavanceerde single-page apps.
 
-These Angular docs help you learn and use the Angular framework and development platform, from your first application to optimizing complex single-page apps for enterprises.
-Tutorials and guides include downloadable examples to accelerate your projects.
+Deze Angular docs helpen je om het Angular framework en ontwikkel platform te leren kennen en gebruiken, van je allereerste applicatie tot het optimialiseren van complexe single page enterprise applicaties.
+Deze handleiding bevat downloadbare voorbeelden die je kunt gebruiken om de snelheid te verhogen in je projecten.
 
 <div class="card-container">
-  <a href="guide/what-is-angular" class="docs-card" title="Angular Platform Overview">
-    <section>What is Angular</section>
-    <p>Get a high-level overview of the Angular platform.</p>
-    <p class="card-footer">Platform overview</p>
+  <a href="guide/what-is-angular" class="docs-card" title="Angular Platform Overzicht">
+    <section>Wat is Angular</section>
+    <p>Krijg op hoog niveau een overzicht van het Angular platform.</p>
+    <p class="card-footer">Platform overzicht</p>
   </a>
-  <a href="start" class="docs-card" title="Getting started">
-    <section>Getting started</section>
-    <p>Examine and work with a small ready-made Angular app, without any setup.</p>
-    <p class="card-footer">Try it now</p>
+  <a href="start" class="docs-card" title="Aan de slag">
+    <section>Aan de slag</section>
+    <p>Bestudeer en werk met een kleine kant-en-klare Angular app, zonder enige setup.</p>
+    <p class="card-footer">Probeer het nu</p>
   </a>
-  <a href="guide/architecture" class="docs-card" title="Angular Concepts">
-    <section>Learn and Explore</section>
-    <p>Learn about the fundamental design concepts and architecture of Angular apps.</p>
-    <p class="card-footer">Introduction to Angular concepts</p>
+  <a href="guide/architecture" class="docs-card" title="Angular Concepten">
+    <section>Leer en ontdek</section>
+    <p>Leer over de fundamentele ontwerpconcepten en achitectuur van Angular apps.</p>
+    <p class="card-footer">Introductie tot Angular concepten</p>
   </a>
-  <a href="guide/setup-local" class="docs-card" title="Angular Local Environment Setup">
-    <section>Set up your environment</section>
-    <p>Set up your local environment for development with the Angular CLI.</p>
-    <p class="card-footer">Local setup</p>
+  <a href="guide/setup-local" class="docs-card" title="Angular lokale setup">
+    <section>Creer een lokale ontwikkel omgeving</section>
+    <p>Stel uw lokale omgeving in voor ontwikkeling met de Angular CLI.</p>
+    <p class="card-footer">Lokale setup</p>
   </a>
-  <a href="tutorial" class="docs-card" title="Work through a full tutorial">
+  <a href="tutorial" class="docs-card" title="Een volledige handleiding voor een eerste Angular app">
     <section>Hello World</section>
-    <p>Work through a full tutorial to create your first app.</p>
+    <p>Maak je eerste Angular app aan de hand van een handleiding.</p>
     <p class="card-footer">Tour of Heroes tutorial</p>
   </a>
 </div>
 
 ## Assumptions
 
-These docs assume that you are already familiar with [HTML](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML "Learn HTML"), [CSS](https://developer.mozilla.org/docs/Learn/CSS/First_steps "Learn CSS"), [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript/A_re-introduction_to_JavaScript "Learn JavaScript"),
-and some of the tools from the [latest standards](https://developer.mozilla.org/docs/Web/JavaScript/Language_Resources "Latest JavaScript standards"), such as [classes](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Classes "ES2015 Classes") and [modules](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Statements/import "ES2015 Modules").
+Deze docs gaan er vanuit dat je kennis hebt van [HTML](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML "Learn HTML"), [CSS](https://developer.mozilla.org/docs/Learn/CSS/First_steps "Learn CSS"), [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript/A_re-introduction_to_JavaScript "Learn JavaScript"),
+en van de tools [latest standards](https://developer.mozilla.org/docs/Web/JavaScript/Language_Resources "Latest JavaScript standards"), such as [classes](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Classes "ES2015 Classes") and [modules](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Statements/import "ES2015 Modules").
 The code samples are written using [TypeScript](https://www.typescriptlang.org/ "TypeScript").
 Most Angular code can be written with just the latest JavaScript, using [types](https://www.typescriptlang.org/docs/handbook/classes.html "TypeScript Types") for dependency injection, and using [decorators](https://www.typescriptlang.org/docs/handbook/decorators.html "Decorators") for metadata.
 
