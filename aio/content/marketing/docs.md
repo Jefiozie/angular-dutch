@@ -33,12 +33,12 @@ Deze handleiding bevat downloadbare voorbeelden die je kunt gebruiken om de snel
   </a>
 </div>
 
-## Assumptions
+## Aannames
 
 Deze docs gaan er vanuit dat je kennis hebt van [HTML](https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML "Learn HTML"), [CSS](https://developer.mozilla.org/docs/Learn/CSS/First_steps "Learn CSS"), [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript/A_re-introduction_to_JavaScript "Learn JavaScript"),
-en van de tools [latest standards](https://developer.mozilla.org/docs/Web/JavaScript/Language_Resources "Latest JavaScript standards"), such as [classes](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Classes "ES2015 Classes") and [modules](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Statements/import "ES2015 Modules").
-The code samples are written using [TypeScript](https://www.typescriptlang.org/ "TypeScript").
-Most Angular code can be written with just the latest JavaScript, using [types](https://www.typescriptlang.org/docs/handbook/classes.html "TypeScript Types") for dependency injection, and using [decorators](https://www.typescriptlang.org/docs/handbook/decorators.html "Decorators") for metadata.
+en van de tools [latest javascript standards](https://developer.mozilla.org/docs/Web/JavaScript/Language_Resources "Latest JavaScript standards"), zoals [classes](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Classes "ES2015 Classes") en [modules](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Statements/import "ES2015 Modules").
+De code voorbeelden zijn gemaakt in [TypeScript](https://www.typescriptlang.org/ "TypeScript").
+De Angular kan in de laatste Javascript standaard geschreven worden doormiddel van [types](https://www.typescriptlang.org/docs/handbook/classes.html "TypeScript Types") voor dependency injection, en [decorators](https://www.typescriptlang.org/docs/handbook/decorators.html "Decorators") voor metadata.
 
 ## Feedback
 
